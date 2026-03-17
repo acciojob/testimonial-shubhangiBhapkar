@@ -1,4 +1,4 @@
-:root{
+.div-1{
 	background-color: #f5f5f5;
 	padding:10%;
 	
@@ -10,6 +10,9 @@
 	margin-bottom:5%;
 	
 }
+
+
+
 .auth{
 	text-align:right;
 	font-style:italic;
